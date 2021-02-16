@@ -13,5 +13,5 @@ class TestClass(unittest.TestCase):
         self.assertEqual(task.mu_func(), expected)
         
         
-if __name__ == "__main__"
+if __name__ == "__main__":
     unittest.main()
